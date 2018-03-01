@@ -1,0 +1,16 @@
+Citadel:
+1.Its not well promoted as people don't know about this, they search bsw website instead where resources are much less.
+
+Omegle:
+1.The size of chat message should be larger.
+2.The background image must be replaced with some sophisticated one, its very gaudy.
+3.The 'you are: anonymous -name' part must be well formatted.
+4.The send button is not working.
+5.The height of send button must coincide with the box.
+
+Sendata:
+1.The paragraph at bottom is not clearly visible from the right end as the colours of text and background images mixes. So either change the text colour or the background image.
+2.The process of how this works is not explained on the page. It should include a small instruction like 'Choose a username and press Enter'.
+3.The table which displays Online users, there should be some format change so that it becomes more clear that div is an online user, as it looks like it is the heading of the table, as it took me some time to figure out that one online user is 'Div'.
+4.There should be a back button on the page that comes after we enter username.
+5.The line 'welcome username' should be centred on the page.
